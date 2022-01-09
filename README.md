@@ -1,4 +1,14 @@
-### Hi there 👋
+### hi i'm wesley!
+
+i'm currently trying to figure out a healthy balance between spending time offline and online, but i'm addicted to my laptop  
+
+i'm trying to improve my skills in **software development, web dev, ui/ux design, and more,,,**
+
+in my freetime, i like to play games, binge shows, watch movies, and take naps!
+
+![image](https://user-images.githubusercontent.com/74622613/148674071-dd248b8c-e3a1-4890-95a4-cd93cf2af56f.png)
+
+feel free to connect with [me](https://www.linkedin.com/in/wwesleyma/) so we could binge or code together wooooo
 
 <!--
 **wwesleym/wwesleym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
