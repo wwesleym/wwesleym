@@ -2,7 +2,7 @@
 
 i'm currently trying to figure out a healthy balance between spending time offline and online, but i'm addicted to my laptop  
 
-i'm trying to improve my skills in **software development, web dev, ui/ux design, and more,,,**
+i'm always looking to improve my skills in **software development, web dev, ui/ux design, and more,,,**
 
 in my freetime, i like to play games, binge shows, watch movies, and take naps!
 
