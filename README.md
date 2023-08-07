@@ -8,7 +8,7 @@ in my freetime, i like to play games, binge shows, watch movies, and take naps!
 
 ![image](https://user-images.githubusercontent.com/74622613/148674071-dd248b8c-e3a1-4890-95a4-cd93cf2af56f.png)
 
-feel free to connect with [me](https://www.linkedin.com/in/wwesleyma/) so we could binge or code together wooooo
+feel free to connect with [me](https://www.linkedin.com/in/wwesleym/) so we could binge or code together wooooo
 
 <!--
 **wwesleym/wwesleym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
