@@ -1,6 +1,6 @@
 ### hello i'm wesley!
 
-i'm currently trying to figure out a healthy balance between spending time offline and online, but i'm addicted to my laptop  
+i'm currently trying to figure out a healthy balance between spending time offline and online
 
 i'm always looking to improve my skills in **software development, web dev, ui/ux design**, and more,,,
 
