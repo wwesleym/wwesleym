@@ -1,4 +1,4 @@
-### hello i'm wesley!
+### hello, i'm wesley!
 
 i'm currently trying to figure out a healthy balance between spending time offline and online
 
